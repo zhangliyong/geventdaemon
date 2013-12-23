@@ -41,3 +41,7 @@ meaning the `frame` parameter is always None.
         # do some gevent work after fork.
         work()
 
+
+## Install
+
+    pip install git+git://github.com/gwik/geventdaemon.git#egg=geventdaemon
